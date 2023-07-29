@@ -1,3 +1,5 @@
+# Geo Ip Redirect Module Documentation
+
 This is the documentation of the Geo Ip Redirect module for Magento 2 which perform redirection to the correct user store view.
 
 The plugin performs the redirect only when the user visits the homepage of your e-commerce without the locale code in the URL. For example, if the user navigates to [https://example.com](https://example.com/), the redirect will be triggered. However, if the user visits [https://example.com/en](https://example.com/en), the redirect will not be executed.
